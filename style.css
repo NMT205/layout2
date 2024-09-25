@@ -26,3 +26,10 @@
 .tb2{
     background-color: rgb(156, 160, 164);
 }
+body{
+    margin: 0;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
