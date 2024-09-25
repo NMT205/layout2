@@ -1,0 +1,28 @@
+#title{
+    font-size: xx-large;
+}
+.background_large{
+    font-size: x-large;
+    color: rgb(17, 75, 150);
+    background-color: rgb(166, 220, 251);
+}
+.background_font{
+    color: rgb(17, 75, 150);
+}
+#img1{
+    float: inline-end;
+    width: 200;
+    height: 100;
+}
+#img2{
+    float: right;
+    width: 200px;
+    height: 300px;
+}
+.tb1{
+    background-color: rgb(156, 160, 164);
+    color: rgb(17, 75, 150);
+}
+.tb2{
+    background-color: rgb(156, 160, 164);
+}
